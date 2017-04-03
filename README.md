@@ -7,7 +7,7 @@ git init
 ```
 Si es un proyecto nuevo debemos realizar la conexión con el repositorio de Github
 ```
-git remote add origin https://github.com/SrShark/proyecto-python.git
+git remote add origin https://github.com/milagrossc1/IA
 
 ```
 Agregando archivos para hacer el comit.
